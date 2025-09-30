@@ -15,7 +15,7 @@
           <tr>
             <td style="width: 200px; padding: 10px;">
               <div align="center">
-                <img src="https://github.com/MXER-316.png" alt="Profile Photo" width="180" style="border: 4px solid #000000; border-radius: 5px;">
+     <img src="https://i.imgur.com/your-custom-seabeee-build-animation.gif" alt="Seabee Construction Complete" width="200" style="border: 3px solid #000000; border-radius: 5px;"/>
                 <p style="color: #000000; font-weight: bold; margin-top: 5px;">"CAN DO!"</p>
               </div>
             </td>
